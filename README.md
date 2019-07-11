@@ -4,3 +4,7 @@ Training program members:
 -LA
 -Matthew
 -Gab
+-Jo
+-Din
+-Enard
+-Ivy
